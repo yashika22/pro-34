@@ -24,7 +24,7 @@ background(46,139,87)
 
 if(keyWentUp(UP_ARROW)){
   writeStock(foodS);
- // dog.addImage(dogHappy);
+  dog.addImage(dogHappy);
 }
   drawSprites();
   fill(255,255,254);
